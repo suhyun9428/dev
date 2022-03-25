@@ -1,0 +1,10 @@
+@charset "utf-8";
+.promotion__airtel{max-width:858px;margin:0 auto;overflow:hidden}
+.promotion__airtel img{width:100%;vertical-align:top}
+
+/*사이판 여행 정보*/
+.section__info .section__info-box{position:relative}
+.section__info .section__info-box .btn{position:absolute;left:73.7%;top:13.6%;width:19.8%;height:9.1%;text-indent:-9999px}
+.section__info .section__info-box .btn_go2{top:6.1%;height:4.3%}
+.section__info .section__info-box .btn_go3{top:47.3%;left:41.9%;width:51.2%;height:10.8%}
+.section__info .section__info-box .btn_go4{top:5.5%;height:4%}
