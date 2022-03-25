@@ -17,16 +17,16 @@
 .section__event-sfcmall .link__homeshopping,
 .section__event-sfcmall .link__smileclub,
 .section__event-sfcmall .link__detail{position:absolute;left:48.5%;;width:36.2%;border:0}
-.section__event-sfcmall .link__coupon{background:url(http://image.gmarket.co.kr/Gmkt_Event/2022/03/0301_SFC/m/image__coupon.jpg) no-repeat 0 0;background-size:100% auto}
-.section__event-sfcmall .link__coupon.link__coupon--soldout{background:url(http://image.gmarket.co.kr/Gmkt_Event/2022/03/0301_SFC/m/image__soldout.jpg) no-repeat 0 0;background-size:100% auto}
+.section__event-sfcmall .link__coupon{background:url(http://image.gmarket.co.kr/Gmkt_Event/2022/04/0401_SFC/m/image__coupon.jpg) no-repeat 0 0;background-size:100% auto}
+.section__event-sfcmall .link__coupon.link__coupon--soldout{background:url(http://image.gmarket.co.kr/Gmkt_Event/2022/04/0401_SFC/m/image__soldout.jpg) no-repeat 0 0;background-size:100% auto}
 
 .box__event-layer{position:absolute;top:96%;left:0;right:0;z-index:100}
 .box__event-layer .button__close-layer{position:absolute;left:0;top:0;width:100%;height:100%;border:0}
 
-.box__smileclub .link__smileclub{top:70.7%;height:7.634%}
-.box__smileclub.box__smileclub-2 .link__smileclub{top:63.7%}
-.box__smileclub .button__notice{top:54.549%;height:7.634%;left:13%;width:25%}
-.box__smileclub .box__event-layer{top:52.9%}
+.box__smileclub .link__smileclub{top:64.2%;height:6.5%}
+/* .box__smileclub.box__smileclub-2 .link__smileclub{top:63.7%} */
+.box__smileclub .button__notice{top:49.7%;height:7.634%;left:13%;width:25%}
+.box__smileclub .box__event-layer{top:49%}
 
 .box_smilecash .link__smilecash{display:block}
 
@@ -42,7 +42,7 @@
 .box__sfc-special2 .button__notice{height:8%;left:37%;bottom:6.5%;width:25%}
 .box__sfc-special2 .box__event-layer{top:81%}
 
-.box__add-coupon .link__coupon{bottom:18.5%;height:11.5%;left:51.5%;background:url(http://image.gmarket.co.kr/Gmkt_Event/2022/03/0301_SFC/m/image__coupon.jpg) no-repeat 0 0;background-size:100% auto}
+.box__add-coupon .link__coupon{bottom:18.5%;height:11.5%;left:51.5%;background:url(http://image.gmarket.co.kr/Gmkt_Event/2022/04/0401_SFC/m/image__coupon.jpg) no-repeat 0 0;background-size:100% auto}
 .box__add-coupon .button__notice{height:8%;left:37%;bottom:7%;width:25%;}
 .box__add-coupon .box__event-layer{top:79.75%}
 
@@ -76,7 +76,7 @@
 .box__homeshopping .button__notice{top:82.5%;height:12%;left:12%}
 .box__homeshopping .box__event-layer{top:81.2%}
 
-.box__shilla .link__detail{top:70.13%;height:14%;width:36%;left:52%}
+.box__shilla .link__detail{top:72.13%;height:14%;width:36%;left:51%}
 
 .box__auction-smileclub .link__mycoupon{top:85.9%;height:7.2%;width:36%;left:32%}
 
